@@ -1,0 +1,426 @@
+﻿"TableInfos"
+"ID";"Title";"ShortTitle";"Identifier";"Summary";"Modified";"ReasonDelivery";"ExplanatoryText";"Language";"Catalog";"Frequency";"Period";"ShortDescription";"Description";"DefaultPresentation";"DefaultSelection";"GraphTypes";"OutputStatus";"Source";"MetaDataModified";"SearchPriority"
+"0";"Leefstijl en preventie; geslacht, leeftijd, persoonskenmerken";"Leefstijl en preventie; kenmerken";"83385NED";"Leefstijl en preventie naar geslacht, leeftijd, opleidingsniveau,
+inkomen en herkomst";"2020-11-25T02:00:00";"Verbetering";"";"nl";"CBS";"Pertweejaar";"2014-2019";"
+Deze tabel bevat cijfers over leefstijl en (preventief) gezondheidsonderzoek van de Nederlandse bevolking. De cijfers kunnen worden uitgesplitst naar geslacht, leeftijd en sociaaleconomische status (migratieachtergrond, onderwijs- en inkomensniveau). Daarbij kunnen geslacht, leeftijd en sociaaleconomische status met elkaar gekruist worden. 
+Voor enkele onderwerpen geldt een afwijkende leeftijdsafbakening. Deze leeftijden worden bij de betreffende onderwerpen vermeld. De cijfers in de tabel zijn een gemiddelde over twee onderzoeksjaren. 
+
+Gegevens beschikbaar vanaf: 2014/2015
+
+Status van de cijfers: de cijfers zijn definitief. 
+
+Wijzingen per 25 november. 
+De cijfers over de verslagjaren 2018/2019 zijn toegevoegd. 
+Daarnaast zijn er cijfers over de nieuwe beweegrichtlijn toegevoegd. De beweegrichtlijn is eind 2017 opgesteld door de Gezondheidsraad. Deze nieuwe richtlijn vervangt de Nederlandse Norm Gezond Bewegen, de fitnorm en de combinorm. Personen vanaf 18 jaar dienen minstens 2,5 uur per week matig intensieve inspanning  te verrichten verspreid over diverse dagen, zoals wandelen en fietsen, en minstens tweemaal per week spier- en botversterkende activiteiten te verrichten. Jongeren van 4 tot en met 17 jaar dienen minstens elke dag een uur matig intensieve inspanning te verrichten en minstens driemaal per week spier- en botversterkende activiteiten te verrichten. Deze cijfers over bewegen; voldoen aan de beweegrichtlijn, voldoende matig intensieve inspanning en voldoende bot- en spierversterkende oefeningen zijn aan de tabel toegevoegd. Daarnaast werd informatie over wekelijkse sporters, lid van een sportvereniging en abonnement sportaanbieder toegevoegd aan de tabel voor 2016/2017 en 2018/2019 voor personen van 4 jaar of ouder.
+Ook zijn de cijfers over het percentage personen dat voldoet aan de richtlijnen voor alcoholgebruik toegevoegd voor de jaren 2014/2015, 2016/2017 en 2018/2019. 
+Tenslotte zijn de puntjes weggehaald bij de variabelen risico ongewenste zwangerschap, pilgebruik, mammagrafie en cervix uitstrijkje voor mannen en bij de variabele PSA-test voor vrouwen in 2016/2017 zodat dit in lijn is met 2014/2015. Voor drugsgebruik werden puntjes toegevoegd voor het jaar 2014/2015 omdat deze waarden wel kunnen voorkomen maar onbekend zijn. 
+
+Wanneer komen er nieuwe cijfers? 
+Cijfers over 2020/2021 komen in het derde kwartaal van 2022. 
+";"INHOUDSOPGAVE
+
+1. Toelichting
+2. Definities en verklaring van symbolen
+3. Koppelingen naar relevante tabellen en artikelen
+4. Bronnen en methoden
+5. Meer informatie 
+
+1. TOELICHTING
+
+Deze tabel bevat cijfers over leefstijl en (preventief) gezondheidsonderzoek van de Nederlandse bevolking. De cijfers kunnen worden uitgesplitst naar geslacht, leeftijd en sociaaleconomische status (migratieachtergrond, onderwijs- en inkomensniveau). Daarbij kunnen geslacht, leeftijd en sociaaleconomische status met elkaar gekruist worden. 
+Voor enkele onderwerpen geldt een afwijkende leeftijdsafbakening. Deze leeftijden worden bij de betreffende onderwerpen vermeld. De cijfers in de tabel zijn een gemiddelde over twee onderzoeksjaren. 
+
+Gegevens beschikbaar vanaf: 2014/2015
+
+Status van de cijfers: de cijfers zijn definitief. 
+
+Wijzingen per 25 november. 
+De cijfers over de verslagjaren 2018/2019 zijn toegevoegd. 
+Daarnaast zijn er cijfers over de nieuwe beweegrichtlijn toegevoegd. De beweegrichtlijn is eind 2017 opgesteld door de Gezondheidsraad. Deze nieuwe richtlijn vervangt de Nederlandse Norm Gezond Bewegen, de fitnorm en de combinorm. Personen vanaf 18 jaar dienen minstens 2,5 uur per week matig intensieve inspanning  te verrichten verspreid over diverse dagen, zoals wandelen en fietsen, en minstens tweemaal per week spier- en botversterkende activiteiten te verrichten. Jongeren van 4 tot en met 17 jaar dienen minstens elke dag een uur matig intensieve inspanning te verrichten en minstens driemaal per week spier- en botversterkende activiteiten te verrichten. Deze cijfers over bewegen; voldoen aan de beweegrichtlijn, voldoende matig intensieve inspanning en voldoende bot- en spierversterkende oefeningen zijn aan de tabel toegevoegd. Daarnaast werd informatie over wekelijkse sporters, lid van een sportvereniging en abonnement sportaanbieder toegevoegd aan de tabel voor 2016/2017 en 2018/2019 voor personen van 4 jaar of ouder.
+Ook zijn de cijfers over het percentage personen dat voldoet aan de richtlijnen voor alcoholgebruik toegevoegd voor de jaren 2014/2015, 2016/2017 en 2018/2019. 
+Tenslotte zijn de puntjes weggehaald bij de variabelen risico ongewenste zwangerschap, pilgebruik, mammagrafie en cervix uitstrijkje voor mannen en bij de variabele PSA-test voor vrouwen in 2016/2017 zodat dit in lijn is met 2014/2015. Voor drugsgebruik werden puntjes toegevoegd voor het jaar 2014/2015 omdat deze waarden wel kunnen voorkomen maar onbekend zijn. 
+
+Wanneer komen er nieuwe cijfers? 
+Cijfers over 2020/2021 komen in het derde kwartaal van 2022. 
+
+2. DEFINITIES EN VERKLARING VAN SYMBOLEN
+
+Definities:
+Particulier huishouden.
+Een particulier huishouden bestaat uit één of meer personen die samen een woonruimte bewonen en zichzelf daar niet-bedrijfsmatig voorzien in dagelijkse levensbehoefte. 
+
+Verklaring van symbolen:
+niets (blanco)	: het cijfer kan op logische gronden niet voorkomen
+. 		: het cijfer is onbekend, onvoldoende betrouwbaar of geheim
+*		: voorlopige cijfers
+**		: nader voorlopige cijfers
+
+3. KOPPELINGEN NAAR RELEVANTE TABELLEN EN ARTIKELEN
+
+Relevante tabellen:
+
+Jaarlijkse gegevens over leefstijl vanaf 2014 zijn te vinden in de tabel:<a href='http://opendata.cbs.nl/statline/#/CBS/nl/dataset/83021NED'> Leefstijl en (preventief) gezondheidsonderzoek; persoonskenmerken</a>
+Jaarlijkse gegevens over gezondheid en zorggebruik vanaf 2014 zijn te vinden in de tabel: <a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83005NED'>Gezondheid en zorggebruik; persoonskenmerken</a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/81175ned'>Leefstijl, preventief onderzoek; persoonskenmerken, 2010-2013  </a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/81175ned'>Leefstijl, preventief onderzoek; leeftijd en geslacht, 2010-2013 </a>     
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/03799'>Gezondheid, leefstijl, zorggebruik; t/m 2009 </a>
+<a href='https://opendata.cbs.nl/statline/#/CBS/nl/dataset/37459'>Geboorteregeling; anticonceptiemethode en leeftijd (exact) van de vrouw</a>
+Meer informatie is te vinden op de themapagina <a href='https://www.cbs.nl/nl-nl/maatschappij/gezondheid-en-welzijn'>Gezondheid en Welzijn </a>
+
+De gegevens over leefstijl zijn verzameld in het kader van <a href='https://www.rivm.nl/leefstijlmonitor'>de Leefstijlmonitor</a>. 
+
+4. BRONNEN EN METHODEN
+
+De beschrijving van het onderzoek is te vinden bij: <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/korte-onderzoeksbeschrijvingen/gezondheidsenquete-vanaf-2014'>Korte onderzoeksbeschrijving Gezondheidsenquête</a>
+In 2014 is er een herontwerp van de gezondheidsenquête geweest. Dit heeft als gevolg dat sommige cijfers vanaf dat jaar niet meer goed vergelijkbaar zijn met cijfers over eerdere jaren. Een beschrijving van de veranderingen en de opgetreden methodebreuken vindt u in de nota <a href='https://www.cbs.nl/nl-nl/onze-diensten/methoden/onderzoeksomschrijvingen/aanvullende%20onderzoeksbeschrijvingen/methodebreuk-gezondheidsenquete'>Methodebreuken Gezondheidsenquête 2014.</a> 
+De gegevens over leefstijl zijn verzameld in het kader van <a href='https://www.rivm.nl/leefstijlmonitor'>de Leefstijlmonitor</a>, waarbinnen wordt samengewerkt met verschillende partijen die zich richten op leefstijl. 
+Daarbij worden de volgende bronvermeldingen gebruikt voor de volgende onderwerpen. 
+•	Roken, alcohol en drugs: Gezondheidsenquête/Leefstijlmonitor, CBS i.s.m. RIVM en Trimbos-Instituut, 20xx.
+•	Seksuele gezondheid: Gezondheidsenquête/Leefstijlmonitor, CBS i.s.m. RIVM, Rutgers en Soa Aids Nederland, 20xx.
+•	Bewegen en overgewicht: Gezondheidsenquête/Leefstijlmonitor, CBS i.s.m. RIVM, 20xx.
+•	Ongevallen: Gezondheidsenquête/Leefstijlmonitor, CBS i.s.m. RIVM en VeiligheidNL, 20xx.
+•	Voeding: Gezondheidsenquête/Leefstijlmonitor, CBS i.s.m. RIVM en Voedingscentrum, 20xx.
+
+Marges: Omdat de enquête een steekproef betreft, kunnen er schommelingen in de cijfers optreden als gevolg van toeval. Bij elk gevonden percentage of waarde is daarom het bijbehorende betrouwbaarheidsinterval opgenomen. De werkelijke waarde ligt met een waarschijnlijkheid van 95% tussen de ondergrens en de bovengrens. Het betrouwbaarheidsinterval is afhankelijk is van het aantal ondervraagde personen, van het gekozen steekproefontwerp, en van de spreiding in de antwoorden. De ondergrens is berekend door de standaardfout te vermenigvuldigen met de factor 1,96 en deze waarde af te trekken van het gemiddelde. Als de ondergrens onder de 0% uitkomt, is de grens afgekapt op 0%. De bovengrens is berekend door de standaardfout te vermenigvuldigen met de factor 1,96 en deze waarde op te tellen bij het gemiddelde. Als de bovengrens boven de 100% uitkomt, is de grens afgekapt op 100%.
+
+
+5. MEER INFORMATIE
+
+<a href='https://www.cbs.nl/nl-nl/over-ons/contact/infoservice'>Infoservice</a>
+
+Copyright (c) Centraal Bureau voor de Statistiek, Den Haag/Heerlen 
+Verveelvoudiging is toegestaan, mits CBS als bron wordt vermeld.
+
+";"ts=1605530645758&graphtype=Table&r=Geslacht,Leeftijd,KenmerkenPersonen&k=Topics&t=Marges,Perioden";"$filter=((Geslacht eq '3000   ') or (Geslacht eq '4000   ')) and ((Leeftijd eq '41500') or (Leeftijd eq '53310') or (Leeftijd eq '53715') or (Leeftijd eq '80200')) and ((KenmerkenPersonen eq '1014752 ') or (KenmerkenPersonen eq '1014756 ')) and ((Marges eq 'MW00000')) and ((Perioden eq '2018G200'))&$select=Geslacht, Leeftijd, KenmerkenPersonen, Marges, Perioden, Rokers_1, ExRokers_2, NooitRokers_3, Drinkers_4, ZwareDrinkersOnderDrinkers_7, RichtlijnAlcoholgebruik12JrOfOuder_11, AfgelopenJaar_13, Overgewicht_37, VoldoetAanBeweegrichtlijn_40, WekelijkseSporters_43, k_7DagenPerWeekVoldoendeFruit_60";"Table,Bar";"Regulier";"CBS.";"2020-12-03T02:00:00";"2"
+"DataProperties"
+ID;Position;ParentID;Type;Key;Title;Description;ReleasePolicy;Datatype;Unit;Decimals;Default
+"0";"0";;"Dimension";"Geslacht";"Geslacht";"";;;;;
+"1";"1";;"Dimension";"Leeftijd";"Leeftijd";"";;;;;
+"2";"2";;"Dimension";"KenmerkenPersonen";"Kenmerken personen";"";;;;;
+"3";"3";;"Dimension";"Marges";"Marges";"";;;;;
+"4";"4";;"TimeDimension";"Perioden";"Perioden";"";"true";;;;
+"5";;;"TopicGroup";"";"Rookstatus, 12 jaar of ouder";"De vragen over rookgedrag worden aan alle personen van 12 jaar of ouder gesteld.";;;;;
+"6";"5";"5";"Topic";"Rokers_1";"Rokers";"Percentage personen van 12 jaar of ouder in de bevolking met antwoordcategorie ja op de vraag: Rookt u wel eens?";;"Double";"%";"1";"Impossible"
+"7";"6";"5";"Topic";"ExRokers_2";"Ex-rokers";"Percentage personen van 12 jaar of ouder in de bevolking met antwoordcategorie nee op de vraag: Rookt u wel eens? en antwoordcategorie ja op de vraag: Heeft u vroeger wel gerookt?";;"Double";"%";"1";"Impossible"
+"8";"7";"5";"Topic";"NooitRokers_3";"Nooit-rokers";"Percentage personen van 12 jaar of ouder in de bevolking met antwoordcategorie nee op de vraag: Rookt u wel eens? en antwoordcategorie nee op de vraag: Heeft u vroeger wel gerookt?";;"Double";"%";"1";"Impossible"
+"9";;;"TopicGroup";"";"Alcoholgebruik, 12 jaar of ouder";"De vragen over de consumptie van alcohol worden aan alle personen van 12 jaar of ouder gesteld.";;;;;
+"10";;"9";"TopicGroup";"";"Drinkstatus";;;;;;
+"11";"8";"10";"Topic";"Drinkers_4";"Drinkers";"Percentage personen van 12 jaar of ouder in de bevolking met de antwoordcategorie ja op de vraag: Heeft u in de afgelopen 12 maanden wel eens alcoholhoudende drank gedronken, bijvoorbeeld bier, wijn, likeur, jenever of alcoholhoudende drank gemengd met frisdrank, zoals breezers? Alcoholvrij of alcoholarm bier telt hier niet mee.";;"Double";"%";"1";"Impossible"
+"12";"9";"10";"Topic";"ExDrinkers_5";"Ex-drinkers";"Percentage personen van 12 jaar of ouder in de bevolking met antwoordcategorie nee op de vraag: Heeft u in de afgelopen 12 maanden wel eens alcoholhoudende drank gedronken, bijvoorbeeld bier, wijn, likeur, jenever of alcoholhoudende drank gemengd met frisdrank, zoals breezers? Alcoholvrij of alcoholarm bier telt hier niet mee. en met antwoordcategorie ja op de vraag: Heeft u ooit alcohol gedronken?";;"Double";"%";"1";"Impossible"
+"13";"10";"10";"Topic";"NooitDrinkers_6";"Nooit-drinkers";"Percentage personen van 12 jaar of ouder in de bevolking met antwoordcategorie nee op de vraag: Heeft u ooit alcohol gedronken?";;"Double";"%";"1";"Impossible"
+"14";;"9";"TopicGroup";"";"Drinkers";;;;;;
+"15";"11";"14";"Topic";"ZwareDrinkersOnderDrinkers_7";"Zware drinkers onder drinkers";"Percentage van de drinkers van 12 jaar of ouder dat minstens 1 keer per week 6 of meer glazen alcohol op één dag drinkt (mannen) of minstens 1 keer per week 4 of meer glazen alcohol op één dag drinkt (vrouwen). ";;"Double";"%";"1";"Impossible"
+"16";"12";"14";"Topic";"OvermatigeDrinkersOnderDrinkers_8";"Overmatige drinkers onder drinkers";"Percentage van de drinkers van 12 jaar of ouder dat meer dan 21 glazen per week (mannen) of meer dan 14 glazen per week (vrouwen) drinkt. ";;"Double";"%";"1";"Impossible"
+"17";"13";"14";"Topic";"GlazenAlcoholPerDag_9";"Glazen alcohol per dag";"Gemiddeld aantal glazen alcohol per dag per drinker van 12 jaar of ouder.";;"Double";"aantal";"1";"Impossible"
+"18";"14";"9";"Topic";"Maximaal1GlasPerDagOnderBevolking_10";"Maximaal 1 glas per dag onder  bevolking";"Percentage van de bevolking van 12 jaar of ouder dat niet drinkt of maximaal 1 glas per dag. ";;"Double";"%";"1";"Impossible"
+"19";"15";"9";"Topic";"RichtlijnAlcoholgebruik12JrOfOuder_11";"Richtlijn alcoholgebruik, 12 jr of ouder";"Percentage van de bevolking van 12 jaar of ouder dat voldoet aan de richtlijn voor alcoholgebruik. Voor 12- tot 18-jarigen geldt sinds 2014 de richtlijn: niet drinken tot je 18e. Voor volwassenen geldt sinds 2015 de richtlijn: niet drinken of maximaal 1 glas per dag. Deze richtlijn is afkomstig uit de Richtlijnen Goede Voeding van de Gezondheidsraad.";;"Double";"%";"1";"Impossible"
+"20";;;"TopicGroup";"";"Drugsgebruik, 12 jaar of ouder";"De vragen over het gebruik van drugs worden aan alle personen van 12 jaar of ouder gesteld. Van de volgende drugssoorten wordt gevraagd of ze wel eens gebruikt zijn en zo ja, wanneer voor het laatst:
+• Cannabis (hasj, wiet, marihuana)
+• Amfetamine (zoals pep en speed)
+• XTC (ecstasy, MDMA)
+• LSD
+• Paddo's (hallucinogene paddenstoeltjes of magic mushrooms)
+• Cocaine (ook crack, gekookte coke, freebase)
+• Heroine (horse, smack of bruin)
+• GHB
+• Methadon
+• Vanaf 2018: 4-Fluoramfetamine, ook wel 4-FA, 4-FMP of Flux genoemd
+• Andere drugs
+De antwoordcategorieën zijn telkens:
+• Ja, in de afgelopen 30 dagen
+• Ja, in de afgelopen 12 maanden maar niet in de afgelopen 30 dagen
+• Ja, langer dan 12 maanden geleden
+• Nee, nooit gebruikt
+";;;;;
+"21";;"20";"TopicGroup";"";"Cannabisgebruik";"Op basis van de vraag naar het gebruik van cannabis (hasj, wiet, marihuana)";;;;;
+"22";"16";"21";"Topic";"AfgelopenMaand_12";"Afgelopen maand";;;"Double";"%";"1";"Impossible"
+"23";"17";"21";"Topic";"AfgelopenJaar_13";"Afgelopen jaar";;;"Double";"%";"1";"Impossible"
+"24";"18";"21";"Topic";"Ooit_14";"Ooit";;;"Double";"%";"1";"Impossible"
+"25";;"20";"TopicGroup";"";"Drugsgebruik anders dan cannabis";"Drugsgebruik anders dan cannabis. Op basis van de vragen naar het gebruik van:
+•  Amfetamine (zoals pep en speed)
+•  XTC (ecstasy, MDMA)
+•  Cocaine (ook crack, gekookte coke, freebase)
+•  LSD
+•  Paddo's (hallucinogene paddenstoeltjes of magic mushrooms)
+•  Heroine (horse, smack of bruin)
+•  GHB
+•  Methadon
+•  Vanaf 2018: 4-Fluoramfetamine, ook wel 4-FA, 4-FMP of Flux genoemd
+•  Andere drugs
+Het gaat om het gebruik van 1 of meer van deze drugssoorten. Bij gebruik van meerdere van deze drugssoorten wordt de meest recent gebruikte drugssoort als bepalend gezien voor de verdeling over de categorieën 'afgelopen maand', 'afgelopen jaar' en 'ooit'.
+
+
+";;;;;
+"26";"19";"25";"Topic";"AfgelopenMaand_15";"Afgelopen maand";;;"Double";"%";"1";"Impossible"
+"27";"20";"25";"Topic";"AfgelopenJaar_16";"Afgelopen jaar";;;"Double";"%";"1";"Impossible"
+"28";"21";"25";"Topic";"Ooit_17";"Ooit";;;"Double";"%";"1";"Impossible"
+"29";;"20";"TopicGroup";"";"Amfetaminegebruik";"Op basis van de vraag naar het gebruik van amfetamine (zoals pep en speed)";;;;;
+"30";"22";"29";"Topic";"AgelopenMaand_18";"Agelopen maand";;;"Double";"%";"1";"Impossible"
+"31";"23";"29";"Topic";"AfgelopenJaar_19";"Afgelopen jaar";;;"Double";"%";"1";"Impossible"
+"32";"24";"29";"Topic";"Ooit_20";"Ooit";;;"Double";"%";"1";"Impossible"
+"33";;"20";"TopicGroup";"";"Ectasygebruik";"Op basis van de vraag naar het gebruik van XTC (ecstasy, MDMA)";;;;;
+"34";"25";"33";"Topic";"AfgelopenMaand_21";"Afgelopen maand";;;"Double";"%";"1";"Impossible"
+"35";"26";"33";"Topic";"AfgelopenJaar_22";"Afgelopen jaar";;;"Double";"%";"1";"Impossible"
+"36";"27";"33";"Topic";"Ooit_23";"Ooit";;;"Double";"%";"1";"Impossible"
+"37";;"20";"TopicGroup";"";"Cocaïnegebruik";"Op basis van de vraag naar het gebruik van cocaine (ook crack, gekookte coke, freebase)";;;;;
+"38";"28";"37";"Topic";"AfgelopenMaand_24";"Afgelopen maand";;;"Double";"%";"1";"Impossible"
+"39";"29";"37";"Topic";"AfgelopenJaar_25";"Afgelopen jaar";;;"Double";"%";"1";"Impossible"
+"40";"30";"37";"Topic";"Ooit_26";"Ooit";;;"Double";"%";"1";"Impossible"
+"41";;"20";"TopicGroup";"";"Gebruik overige drugs";"Op basis van de vragen naar het gebruik van:
+• LSD
+• Paddo's (hallucinogene paddenstoeltjes of magic mushrooms)
+• Heroine (horse, smack of bruin)
+• GHB
+• Methadon
+• Vanaf 2018: 4-Fluoramfetamine, ook wel 4-FA, 4-FMP of Flux genoemd
+• Andere drugs
+Het gaat om het gebruik van 1 of meer van deze drugssoorten. Bij gebruik van meerdere van deze drugssoorten wordt de meest recent gebruikte drugssoort als bepalend gezien voor de verdeling over de categorieën ‘afgelopen maand’, ‘afgelopen jaar’ en ‘ooit’.
+
+";;;;;
+"42";"31";"41";"Topic";"AfgelopenMaand_27";"Afgelopen maand";;;"Double";"%";"1";"Impossible"
+"43";"32";"41";"Topic";"AfgelopenJaar_28";"Afgelopen jaar";;;"Double";"%";"1";"Impossible"
+"44";"33";"41";"Topic";"Ooit_29";"Ooit";;;"Double";"%";"1";"Impossible"
+"45";;"20";"TopicGroup";"";"Drugsgebruik totaal";"Op basis van de vragen naar het gebruik van:
+• Cannabis (hasj, wiet, marihuana)
+• Amfetamine (zoals pep en speed)
+• XTC (ecstasy, MDMA)
+• LSD
+• Paddo's (hallucinogene paddenstoeltjes of magic mushrooms)
+• Cocaine (ook crack, gekookte coke, freebase)
+• Heroine (horse, smack of bruin)
+• GHB
+• Methadon
+• Vanaf 2018: 4-Fluoramfetamine, ook wel 4-FA, 4-FMP of Flux genoemd
+• Andere drugs
+Het gaat om het gebruik van 1 of meer van deze drugssoorten. Bij gebruik van meerdere drugssoorten wordt de meest recent gebruikte drugssoort als bepalend gezien voor de verdeling over de categorieën ‘afgelopen maand’, ‘afgelopen jaar’ en ‘ooit’.
+";;;;;
+"46";"34";"45";"Topic";"AfgelopenMaand_30";"Afgelopen maand";;;"Double";"%";"1";"Impossible"
+"47";"35";"45";"Topic";"AfgelopenJaar_31";"Afgelopen jaar";;;"Double";"%";"1";"Impossible"
+"48";"36";"45";"Topic";"Ooit_32";"Ooit";;;"Double";"%";"1";"Impossible"
+"49";;;"TopicGroup";"";"Lengte en gewicht";"De vragen over lengte en lichaamsgewicht worden aan alle personen gesteld. Er wordt gevraagd naar de lengte in cm zonder schoenen en naar het lichaamsgewicht in kg zonder kleren. Bij zwangere vrouwen wordt gevraagd naar het lichaamsgewicht voorafgaand aan de zwangerschap.";;;;;
+"50";"37";"49";"Topic";"OpgegevenLengte18JaarOfOuder_33";"Opgegeven lengte, 18 jaar of ouder";"Het gemiddelde van de eigen opgave van de lengte van de respondenten van 18 jaar of ouder in cm zonder schoenen.";;"Double";"cm";"1";"Impossible"
+"51";"38";"49";"Topic";"OpgegevenGewicht18JaarOfOuder_34";"Opgegeven gewicht, 18 jaar of ouder";"Het gemiddelde van de eigen opgave van het lichaamsgewicht van de respondenten van 18 jaar of ouder in kg zonder kleren. Bij zwangere vrouwen wordt gevraagd naar het lichaamsgewicht voorafgaand aan de zwangerschap. ";;"Double";"kg";"1";"Impossible"
+"52";;"49";"TopicGroup";"";"Onder- en overgewicht, 4 jaar of ouder";"De maat voor onder- of overgewicht is de Body Mass Index (BMI). De BMI is het quotiënt van het lichaamsgewicht in kilogrammen en het kwadraat van de lengte in meters [kg/m2]. Voor volwassenen van 20 jaar of ouder zijn de criteria:
+1.            Ondergewicht: BMI < 18,5
+2.            Normaal gewicht:  BMI >= 18,5 en < 25,0
+3.            Overgewicht: BMI >= 25,0
+a.            Matig overgewicht: BMI >=  25,0 en < 30,0
+b.            Ernstig overgewicht: BMI >= 30,0
+Voor personen jonger dan 20 jaar gelden andere grenswaarden. Deze waarden hangen af van de  leeftijd en het geslacht. In de tabellen zijn niet betrokken de respondenten met onbekende lengte en /of gewicht en de respondenten met een onwaarschijnlijk gewicht in relatie tot de opgegeven lengte. In dit laatste geval betreft het personen 20 jaar of ouder met een BMI van kleiner dan 14 of groter dan 50 en personen jonger dan 20 jaar met een BMI van kleiner dan 10 of groter dan 50. Vanaf 2018 wordt er geen bovengrens meer gehanteerd, de ondergrens voor de BMI verandert niet.
+";;;;;
+"53";"39";"52";"Topic";"Ondergewicht_35";"Ondergewicht";"Percentage personen met een BMI van minder dan 18,5 kg/m2. 
+Voor personen jonger dan 20 jaar gelden andere grenswaarden. Voor personen jonger dan 18 jaar corresponderen deze waarden met een BMI-waarde van 17,0 kg/m2 voor volwassenen. Voor 18- en 19-jarigen zijn de grenswaarden voor ondergewicht geschat door lineair te interpoleren tussen de grenswaarden voor 17-jarigen en 20-jarigen.
+
+";;"Double";"%";"1";"Impossible"
+"54";"40";"52";"Topic";"NormaalGewicht_36";"Normaal gewicht";"Percentage personen met een BMI vanaf 18,5 tot 25,0 kg/m2. 
+Voor personen jonger dan 20 jaar gelden andere grenswaarden voor ondergewicht. Voor personen jonger dan 18 jaar corresponderen deze grenswaarden met een BMI-waarde van 17,0 kg/m2 voor volwassenen. Voor 18- en 19-jarigen zijn de grenswaarden voor ondergewicht geschat door lineair te interpoleren tussen de grenswaarden voor 17-jarigen en 20-jarigen. Voor overgewicht gelden voor personen die jonger zijn dan 18 jaar andere grenswaarden dan voor volwassenen. Deze grenswaarden corresponderen met een BMI-waarde van 25,0 kg/m2 voor volwassenen.
+";;"Double";"%";"1";"Impossible"
+"55";"41";"52";"Topic";"Overgewicht_37";"Overgewicht";"Percentage personen met een BMI van 25,0 kg/m2 en hoger. 
+Voor personen jonger dan 18 jaar gelden andere grenswaarden. Deze waarden corresponderen met een BMI-waarde van 25,0 kg/m2 voor volwassenen.
+";;"Double";"%";"1";"Impossible"
+"56";;"52";"TopicGroup";"";"Mate van overgewicht";;;;;;
+"57";"42";"56";"Topic";"MatigOvergewicht_38";"Matig overgewicht";"Percentage personen met een BMI vanaf 25,0 kg/m2 tot 30,0 kg/m2. 
+Voor personen jonger dan 18 jaar gelden andere grenswaarden. Deze waarden corresponderen met de BMI-waarden van 25,0 kg/m2 en 30,0 kg/m2 voor volwassenen.
+";;"Double";"%";"1";"Impossible"
+"58";"43";"56";"Topic";"ErnstigOvergewicht_39";"Ernstig overgewicht";"Percentage personen met een BMI van 30,0 kg/m2 en hoger. 
+Voor personen jonger dan 18 jaar gelden andere grenswaarden. Deze waarden corresponderen met een BMI-waarde van 30,0 kg/m2 voor volwassenen.
+
+";;"Double";"%";"1";"Impossible"
+"59";;;"TopicGroup";"";"Bewegen, 4 jaar of ouder";"De vragen over lichamelijke activiteit zijn gebaseerd op de zogeheten short questionnaire to assess health enhancing physical activity (SQUASH). Deze vragenlijst beoogt een volledig beeld te leveren van de lichamelijke activiteit. Gevraagd wordt naar frequentie en duur van de volgende deelvormen van lichamelijke activiteit:
+/""/1.	Fietsen en lopen in woon-werk of woon-school verkeer,/""/
+/""/2.	Activiteiten op het werk of op school,/""/
+/""/3.	Activiteiten in het huishouden,/""/
+“4.            Wandelen, fietsen, buiten spelen, tuinieren en klussen in de vrije tijd,”
+/""/5.	Sporten./""/
+Vanaf 2017 publiceert het CBS over de nieuwe beweegrichtlijnen (opgesteld door de Gezondheidsraad) voor personen van 4 jaar en ouder.
+Vanaf 2019 zijn vragen over beweegonderwijs op school aan de vragenlijst toegevoegd om een beter beeld te krijgen van het beweeggedrag van jongeren vanaf 12 jaar. Dit wil zeggen dat aan jongeren vanaf 12 jaar die basisonderwijs, praktijkonderwijs, VMBO, HAVO, VWO of MBO volgen, vragen zijn toegevoegd over gymlessen op school en beweeg- en sportactiviteiten die zijn geregeld vanuit school. Voor jongeren van 4 tot 12 jaar waren deze vragen al opgenomen in de vragenlijst.
+Hierdoor zijn de cijfers over de beweegrichtlijnen, met name die over jongeren vanaf 12 jaar, vanaf 2019 minder goed vergelijkbaar met de cijfers van voor 2019.
+";;;;;
+"60";;"59";"TopicGroup";"";"Beweegrichtlijn";"De beweegrichtlijn is eind 2017 opgesteld door de Gezondheidsraad. Deze nieuwe richtlijn vervangt de Nederlandse Norm Gezond Bewegen, de fitnorm en de combinorm. Personen vanaf 18 jaar dienen minstens 2,5 uur per week matig intensieve inspanning  te verrichten verspreid over diverse dagen, zoals wandelen en fietsen, en minstens tweemaal per week spier- en botversterkende activiteiten te verrichten. Jongeren van 4 tot en met 17 jaar dienen minstens elke dag een uur matig intensieve inspanning te verrichten en minstens driemaal per week spier- en botversterkende activiteiten te verrichten.";;;;;
+"61";"44";"60";"Topic";"VoldoetAanBeweegrichtlijn_40";"Voldoet aan beweegrichtlijn";"Percentage personen van 4 jaar en ouder dat voldoet aan de beweegrichtlijn. Personen vanaf 18 jaar dienen minstens 2,5 uur per week matig intensieve inspanning  te verrichten verspreid over diverse dagen, zoals wandelen en fietsen, en minstens tweemaal per week spier- en botversterkende activiteiten te verrichten. Jongeren van 4 tot en met 17 jaar dienen minstens elke dag een uur matig intensieve inspanning te verrichten en minstens driemaal per week spier- en botversterkende activiteiten te verrichten.
+Vanaf 2019 zijn vragen over beweegonderwijs op school aan de vragenlijst toegevoegd om een beter beeld te krijgen van het beweeggedrag van jongeren vanaf 12 jaar. Dit wil zeggen dat aan jongeren vanaf 12 jaar die basisonderwijs, praktijkonderwijs, VMBO, HAVO, VWO of MBO volgen, vragen zijn toegevoegd over gymlessen op school en beweeg- en sportactiviteiten die zijn geregeld vanuit school. Voor jongeren van 4 tot 12 jaar waren deze vragen al opgenomen in de vragenlijst.
+Hierdoor zijn de cijfers over de beweegrichtlijnen, met name die over jongeren vanaf 12 jaar, vanaf 2019 minder goed vergelijkbaar met de cijfers van voor 2019.
+";;"Double";"%";"1";"Impossible"
+"62";"45";"60";"Topic";"VoldoendeMatigIntensieveInspanning_41";"Voldoende matig intensieve inspanning";"Percentage personen van 4 jaar en ouder dat voldoende matig intensieve inspanning verricht, zoals wandelen en fietsen. Personen vanaf 18 jaar dienen minstens 2,5 uur per week matig intensieve inspanning te verrichten verspreid over diverse dagen. Jongeren van 4 tot en met 17 jaar dienen minstens elke dag een uur matig intensieve inspanning te verrichten.";;"Double";"%";"1";"Impossible"
+"63";"46";"60";"Topic";"VoldoendeBotSpierversterkActiviteit_42";"Voldoende bot/spierversterk. activiteit";"Percentage personen van 4 jaar en ouder dat voldoende spier- en botversterkende activiteiten verricht. Personen vanaf 18 jaar dienen minstens tweemaal per week spier- en botversterkende activiteiten te verrichten. Jongeren van 4 tot en met 17 jaar dienen minstens driemaal per week spier- en botversterkende activiteiten te verrichten.";;"Double";"%";"1";"Impossible"
+"64";"47";"59";"Topic";"WekelijkseSporters_43";"Wekelijkse sporters";"Percentage personen van 4 jaar of ouder dat minimaal 1 keer per week sport. Met ingang van 2016 worden de percentages wekelijkse sporters van 4 jaar of ouder gepubliceerd. ";;"Double";"%";"1";"Impossible"
+"65";"48";"59";"Topic";"AbonnementSportaanbieder_44";"Abonnement sportaanbieder";"Percentage personen van 4 jaar of ouder dat een abonnement heeft op een fitnesscentrum, zwembad of een andere sportaanbieder.";;"Double";"%";"1";"Impossible"
+"66";"49";"59";"Topic";"LidSportvereniging_45";"Lid sportvereniging";"Percentage personen van 4 jaar of ouder dat lid is van een sportvereniging.";;"Double";"%";"1";"Impossible"
+"67";;;"TopicGroup";"";"Bewegen, 12 jaar of ouder";"De vragen over lichamelijke activiteit zijn gebaseerd op de zogeheten short questionnaire to assess health enhancing physical activity (SQUASH). Deze vragenlijst beoogt een volledig beeld te leveren van de lichamelijke activiteit. Gevraagd wordt naar frequentie en duur van de volgende deelvormen van lichamelijke activiteit:
+/""/1.	Fietsen en lopen in woon-werk of woon-school verkeer,/""/
+/""/2.	Activiteiten op het werk of op school,/""/
+/""/3.	Activiteiten in het huishouden,/""/
+‘’4.            Wandelen, fietsen, buiten spelen, tuinieren en klussen in de vrije tijd,”
+/""/5.	Sporten./""/
+Vanaf 2017 publiceert het CBS over de nieuwe beweegrichtlijnen (opgesteld door de Gezondheidsraad) voor personen van 4 jaar en ouder. De cijfers over bewegen van personen van 12 jaar en ouder worden in 2017 voor de laatste keer gepubliceerd.
+
+";;;;;
+"68";;"67";"TopicGroup";"";"Voldoen aan Nederl. Norm Gezond Bewegen";"Percentage personen van 12 jaar of ouder dat voldoet aan de Nederlandse Norm Gezond Bewegen. De Nederlandse norm geeft aan hoeveel lichaamsbeweging minimaal nodig is voor de instandhouding en verbetering van de gezondheid en is gebaseerd op MET-waarden (metabool equivalent): 1 MET komt overeen met het energieverbruik van rustig zitten en 5 MET komt overeen met een energieverbruik van 5 maal dit rustmetabolisme. Voor alle activiteiten die in de SQUASH-vragenlijst worden uitgevraagd is de MET-waarde vastgesteld.
+Volgens de norm moeten jongeren van 12 t/m 17 jaar dagelijks minimaal een uur matig intensieve lichamelijke activiteit (MET-waarde is minimaal 5) verrichten, bijvoorbeeld fietsen. Personen vanaf 18 jaar dienen minimaal een half uur matig intensieve activiteit te verrichten op ten minste vijf dagen van de week. Voor personen van 18 t/m 54 jaar geldt dat de MET-waarde minimaal 4 moet zijn, bijvoorbeeld wandelen (5 km/u). Voor personen van 55  jaar of ouder is het voldoende als de MET-waarde 3 bedraagt, bijvoorbeeld rustig wandelen (4 km/u).
+Eind 2017 heeft de Gezondheidsraad nieuwe beweegrichtlijnen opgesteld. De cijfers over de Nederlandse Norm Gezond Bewegen worden in 2017 voor de laatste keer gepubliceerd.
+";;;;;
+"69";"50";"68";"Topic";"Inactief_46";"Inactief";"Percentage personen van 12 jaar of ouder dat inactief is. Een persoon is inactief als op geen enkele dag aan de Nederlandse Norm Gezond Bewegen wordt voldaan.";;"Double";"%";"1";"Impossible"
+"70";"51";"68";"Topic";"SemiActief_47";"Semi-actief";"Percentage personen van 12 jaar of ouder dat semi-actief is. Een persoon is semi-actief als niet aan de Nederlandse Norm Gezond Bewegen wordt voldaan, maar als hij/zij wel op minimaal 1 en maximaal 6 dagen (voor jongeren van 12 t/m 17 jaar) of maximaal 4 dagen (voor volwassenen) normactief is. ";;"Double";"%";"1";"Impossible"
+"71";"52";"68";"Topic";"Normactief_48";"Normactief";"Percentage personen van 12 jaar of ouder dat normactief is. Een persoon is normactief als aan de Nederlandse Norm Gezond Bewegen wordt voldaan.";;"Double";"%";"1";"Impossible"
+"72";;"67";"TopicGroup";"";"Voldoen aan fitnorm";"Percentage personen van 12 jaar of ouder dat voldoet aan de fitnorm. De fitnorm is gebaseerd op de minimale hoeveelheid lichaamsbeweging die nodig is voor het bereiken van een optimaal uithoudingsvermogen. Iemand voldoet aan de fitnorm als hij/zij ten minste drie keer per week beweegt met zware intensiteit gedurende minimaal 20 minuten. De intensiteit van bewegen is vastgesteld aan de hand van MET-waarden (metabool equivalent): 1 MET komt overeen met het energieverbruik van rustig zitten en 5 MET komt overeen met een energieverbruik van 5 maal dit rustmetabolisme. Voor alle activiteiten die in de SQUASH-vragenlijst worden uitgevraagd is de MET-waarde vastgesteld.
+Voor jongeren van 12 t/m 17 jaar gelden activiteiten met een MET-waarde van minimaal 8 als zwaar intensief.  Voor volwassenen van 18 t/m 54 gelden activiteiten met een MET-waarde van minimaal 6,5 als zwaar intensief. Voor volwassenen van 55 jaar of ouder gelden activiteiten met een MET-waarde van minimaal 5 als zwaar intensief.
+Eind 2017 heeft de Gezondheidsraad nieuwe beweegrichtlijnen opgesteld. De cijfers over de fitnorm worden in 2017 voor de laatste keer gepubliceerd.
+";;;;;
+"73";"53";"72";"Topic";"Inactief_49";"Inactief";"Percentage personen van 12 jaar of ouder dat inactief is. Een persoon is inactief als op geen enkele dag aan de fitnorm wordt voldaan.";;"Double";"%";"1";"Impossible"
+"74";"54";"72";"Topic";"SemiActief_50";"Semi-actief";"Percentage personen van 12 jaar of ouder dat semi-actief is. Een persoon is semi-actief als niet aan de fitnorm wordt voldaan, maar als hij/zij wel op 1 of 2 dagen normactief is. ";;"Double";"%";"1";"Impossible"
+"75";"55";"72";"Topic";"Normactief_51";"Normactief";"Percentage personen van 12 jaar of ouder dat normactief is. Een persoon is normactief als aan de fitnorm wordt voldaan.";;"Double";"%";"1";"Impossible"
+"76";"56";"67";"Topic";"VoldoenAanCombinorm_52";"Voldoen aan combinorm";"Percentage personen van 12 jaar of ouder dat aan de Nederlandse Norm Gezond Bewegen en/of aan de fitnorm voldoet.
+Eind 2017 heeft de Gezondheidsraad nieuwe beweegrichtlijnen opgesteld. De cijfers over de combinorm worden in 2017 voor de laatste keer gepubliceerd.
+";;"Double";"%";"1";"Impossible"
+"77";"57";"67";"Topic";"WekelijkseSporters_53";"Wekelijkse sporters";"Percentage personen van 12 jaar of ouder dat minimaal 1 keer per week sport. Met ingang van 2016 worden de percentages wekelijkse sporters van 4 jaar of ouder gepubliceerd. De percentages wekelijkse sporters van 12 jaar of ouder worden in 2017 voor de laatste keer gepubliceerd.";;"Double";"%";"1";"Impossible"
+"78";;;"TopicGroup";"";"Seksuele gezondheid, 16 jaar of ouder";"De vragen over seksuele gezondheid  worden aan personen van 16 jaar of ouder gesteld. ";;;;;
+"79";"58";"78";"Topic";"HeeftRisicovolleSeksGehad_54";"Heeft risicovolle seks gehad";"Percentage personen van 16 jaar of ouder dat risicovolle seks heeft gehad. Het gaat daarbij om het laatste seksuele contact (dat in de afgelopen 12 maanden moet hebben plaatsgevonden). Risicovolle seks is gedefinieerd als geslachtsgemeenschap of anale seks die onbeschermd (zonder condoom) plaatsvindt met een partner waar iemand geen vaste relatie mee heeft.";;"Double";"%";"1";"Impossible"
+"80";"59";"78";"Topic";"RisicoOngeplandeZwangerschap1649Jr_55";"Risico ongeplande zwangerschap, 16-49 jr";"Percentage van de seksueel actieve vrouwen van 16 tot en met 49 jaar dat risico loopt op een ongeplande zwangerschap. Vrouwen zijn seksueel actief als ze in de afgelopen 12 maanden seks hebben gehad. 
+Risico op een ongeplande zwangerschap wordt gelopen als een vrouw seks heeft zonder dat zij of haar partner voorbehoedsmiddelen gebruikt en zij niet al zwanger is of dat probeert te worden.
+Het percentage vrouwen dat risico loopt op een ongeplande zwangerschap is voor de jaren 2014/2015 te hoog. De cijfers voor verslagjaren 2016/2017 en 2018/2019 zijn om die reden niet gepubliceerd. 
+
+";;"Double";"%";"1";"Impossible"
+"81";"60";"78";"Topic";"HivTest_56";"Hiv-test";"Percentage personen van 16 jaar of ouder dat in de afgelopen 12 maanden is getest op hiv, het virus dat aids veroorzaakt.";;"Double";"%";"1";"Impossible"
+"82";"61";"78";"Topic";"SoaTestExclHivTest_57";"Soa-test (excl. hiv-test)";"Percentage personen van 16 jaar of ouder dat in de afgelopen 12 maanden is getest op een seksueel overdraagbare aandoening (soa), anders dan hiv.";;"Double";"%";"1";"Impossible"
+"83";"62";"78";"Topic";"AnticonceptiegebruikInclPil1649_58";"Anticonceptiegebruik (incl. pil), 16-49";"Percentage van de seksueel actieve vrouwen van 16 tot en met 49 jaar dat een anticonceptiemiddel gebruikt, bijvoorbeeld anticonceptiepil, condoom, spiraal of sterilisatie. Vrouwen zijn seksueel actief als ze in de afgelopen 12 maanden seks hebben gehad.";;"Double";"%";"1";"Impossible"
+"84";"63";"78";"Topic";"GebruikAnticonceptiepil1649Jaar_59";"Gebruik anticonceptiepil, 16-49 jaar";"Percentage vrouwen van 16 tot en met 49 jaar dat de anticonceptiepil gebruikt.";;"Double";"%";"1";"Impossible"
+"85";;;"TopicGroup";"";"Voeding, 4 jaar of ouder";"De vragen over voeding worden gesteld aan alle personen van 4 jaar of ouder en gaan over de consumptie van fruit, groente en vis. ";;;;;
+"86";;"85";"TopicGroup";"";"Consumptie van fruit";"Personen wordt gevraagd naar de consumptie van fruit in een normale week in de afgelopen maanden.";;;;;
+"87";"64";"86";"Topic";"k_7DagenPerWeekVoldoendeFruit_60";"7 Dagen per week voldoende fruit";"Percentage personen dat elke dag minimaal 2 stuks fruit eet (vanaf 9 jaar) of anderhalf stuk fruit (kinderen t/m 8 jaar). Eén stuk fruit komt overeen met 100 gram. Deze aanbevolen hoeveelheid is afkomstig uit de Richtlijnen Schijf van Vijf van het Voedingscentrum. Deze richtlijnen zijn gebaseerd op de Richtlijnen Goede Voeding van de Gezondheidsraad.";;"Double";"%";"1";"Impossible"
+"88";"65";"86";"Topic";"Minimaal5DagenPWVoldoendeFruit_61";"Minimaal 5 dagen p.w. voldoende fruit";"Percentage personen dat minstens 5 dagen per week minimaal 2 stuks fruit per dag eet (vanaf 9 jaar) of anderhalf stuk fruit (kinderen t/m 8 jaar). Eén stuk fruit komt overeen met 100 gram. ";;"Double";"%";"1";"Impossible"
+"89";;"85";"TopicGroup";"";"Consumptie van groente";"Personen wordt gevraagd naar de consumptie van groente in een normale week in de afgelopen maanden.";;;;;
+"90";"66";"89";"Topic";"k_7DagenPerWeekVoldoendeGroente_62";"7 Dagen per week voldoende groente";"Percentage personen dat elke dag minimaal 5 opscheplepels groente eet (vanaf 14 jaar). Voor kinderen vanaf 4 t/m 8 jaar geldt dat zij dagelijks minimaal 2 opscheplepels groente eten. Voor jongeren vanaf 9 t/m 13 jaar geldt dat zij dagelijks minimaal 3 opscheplepels groente eten. Eén opscheplepel groente komt overeen met 50 gram. Deze aantallen opscheplepels komen overeen met de aanbevolen hoeveelheid groente per dag  uit de Richtlijnen Schijf van Vijf van het Voedingscentrum. Deze richtlijnen zijn gebaseerd op de Richtlijnen Goede Voeding van de Gezondheidsraad (november 2015). 
+De cijfers over 2014 en 2015 gaan uit van de Richtlijnen Voedselkeuze uit 2011. De aanbevolen hoeveelheid volgens die richtlijn was voor personen vanaf 14 jaar anders dan de aanbevolen hoeveelheid volgens de Richtlijnen Schijf van Vijf: namelijk dagelijks minimaal 4 opscheplepels voor personen van 14 t/m 70 jaar en minimaal 3 opscheplepels voor personen vanaf 71 jaar. Door deze verandering in de richtlijnen zijn de cijfers over de groenteconsumptie voor personen vanaf 14 jaar over de jaren vanaf 2016 niet te vergelijken met die van 2014 en 2015.
+";;"Double";"%";"1";"Impossible"
+"91";"67";"89";"Topic";"Minimaal5DagenPWVoldoendeGroente_63";"Minimaal 5 dagen p.w. voldoende groente";"Percentage personen dat minstens 5 dagen per week minimaal 5 opscheplepels groente per dag eet (vanaf 14 jaar). Voor kinderen vanaf 4 t/m 8 jaar geldt dat zij minstens 5 dagen per week minimaal 2 opscheplepels groente per dag eten. Voor jongeren vanaf 9 t/m 13 jaar geldt dat zij minstens 5 dagen per week minimaal 3 opscheplepels groente per dag eten. Eén opscheplepel groente komt overeen met 50 gram. Deze aantallen opscheplepels komen overeen met de aanbevolen hoeveelheid groente per dag uit de Richtlijnen Schijf van Vijf van het Voedingscentrum. Deze richtlijnen zijn gebaseerd op de Richtlijnen Goede Voeding van de Gezondheidsraad (november 2015). 
+De cijfers over 2014 en 2015 gaan uit van de Richtlijnen Voedselkeuze uit 2011. De aanbevolen hoeveelheid volgens die richtlijn was voor personen vanaf 14 jaar anders dan de aanbevolen hoeveelheid volgens de Richtlijnen Schijf van Vijf: namelijk minimaal 4 opscheplepels voor personen van 14 t/m 70 jaar en minimaal 3 opscheplepels voor personen vanaf 71 jaar. Door deze verandering in de richtlijnen zijn de cijfers over de groenteconsumptie voor personen vanaf 14 jaar over de jaren vanaf 2016 niet te vergelijken met die van 2014 en 2015.
+";;"Double";"%";"1";"Impossible"
+"92";;"85";"TopicGroup";"";"Consumptie van vis";"Personen wordt gevraagd naar de consumptie van vis in een normale week in de afgelopen maanden.";;;;;
+"93";"68";"92";"Topic";"Minimaal1DagPerWeek_64";"Minimaal 1 dag per week ";"Percentage personen dat minimaal 1 dag per week vis eet. Deze aanbeveling is afkomstig uit de Richtlijnen Schijf van Vijf van het Voedingscentrum. Deze richtlijnen zijn gebaseerd op de Richtlijnen Goede Voeding van de Gezondheidsraad.";;"Double";"%";"1";"Impossible"
+"94";"69";"92";"Topic";"Min2DagenPWWaarvan1XVetteVis_65";"Min. 2 dagen p.w., waarvan 1 x vette vis";"Percentage personen dat minimaal 2 dagen per week vis eet, waarvan minstens 1 dag vette vis, zoals zalm, haring en makreel.";;"Double";"%";"1";"Impossible"
+"95";;;"TopicGroup";"";"(Preventief) gezondheidsonderzoek";"Onderzoek dat iemand in verband met zijn of haar gezondheid (preventief) kan laten uitvoeren. ";;;;;
+"96";;"95";"TopicGroup";"";"Cervix uitstrijkje, vrouwen vanaf 16 jr";"Een uitstrijkje van de baarmoederhals wordt gemaakt om te controleren of er veranderingen zijn opgetreden in het slijmvlies die op een (voorstadium van) baarmoederhalskanker kunnen duiden. Aan vrouwen van 16 jaar of ouder is gevraagd: Wanneer heeft u voor het laatst een uitstrijkje laten maken?  In 2017 was de antwoordoptie weet niet in de periode januari tot september niet zichtbaar voor de respondenten die de vragenlijst via de computer invulden. Hierdoor is het percentage mensen dat weet niet invulden laag in 2017. In september 2017 werd dit hersteld.";;;;;
+"97";"70";"96";"Topic";"InDeAfgelopen5Jaar_66";"In de afgelopen 5 jaar";;;"Double";"%";"1";"Impossible"
+"98";"71";"96";"Topic";"LangerDan5JaarGeleden_67";"Langer dan 5 jaar geleden";;;"Double";"%";"1";"Impossible"
+"99";"72";"96";"Topic";"Nooit_68";"Nooit";;;"Double";"%";"1";"Impossible"
+"100";"73";"96";"Topic";"WeetNiet_69";"Weet niet";;;"Double";"%";"1";"Impossible"
+"101";;"95";"TopicGroup";"";"Mammografie, vrouwen 16 jaar of ouder";"Mammografie is een veelgebruikte methode om borstkanker vroegtijdig op te sporen. Aan vrouwen van 16 jaar of ouder is gevraagd: Wanneer heeft u voor het laatst een röntgenfoto van één of beide borsten laten maken? Dit wordt mammografie genoemd. Niet bedoeld worden: röntgenfoto's van de gehele borstkas zoals die wel eens gemaakt worden bij bijv. algemeen medisch onderzoek, ziekenhuisopname en hart- en longziekten.  In 2017 was de antwoordoptie weet niet in de periode januari tot september niet zichtbaar voor de respondenten die de vragenlijst via de computer invulden. Hierdoor is het percentage mensen dat weet niet invulden laag in 2017. In september 2017 werd dit hersteld.";;;;;
+"102";"74";"101";"Topic";"InDeAfgelopen2Jaar_70";"In de afgelopen 2 jaar";;;"Double";"%";"1";"Impossible"
+"103";"75";"101";"Topic";"LangerDan2JaarGeleden_71";"Langer dan 2 jaar geleden";;;"Double";"%";"1";"Impossible"
+"104";"76";"101";"Topic";"Nooit_72";"Nooit";;;"Double";"%";"1";"Impossible"
+"105";"77";"101";"Topic";"WeetNiet_73";"Weet niet";;;"Double";"%";"1";"Impossible"
+"106";;"95";"TopicGroup";"";"PSA test, mannen 40 jaar of ouder";"De Prostaat Specifiek Antigeen test (PSA-test) is een specifieke bloedtest om een verhoogde kans op prostaatkanker vast te stellen. Aan mannen van 40 jaar of ouder is gevraagd: Bij mannen is het mogelijk om met behulp van een specifieke bloedtest vast te stellen of er een hoge kans is op prostaatkanker. Deze specifieke bloedtest wordt ook wel PSA-test, de Prostaat Specifiek Antigeen test genoemd. Hoe vaak is er in de afgelopen 5 jaar bij u bloed afgenomen, speciaal voor prostaatonderzoek (PSA-test)?
+
+In 2017 was de antwoordoptie weet niet in de periode januari tot september niet zichtbaar voor de respondenten die de vragenlijst via de computer invulden. Hierdoor is het percentage mensen dat weet niet invulden laag in 2017. In september 2017 werd dit hersteld.
+
+Vanaf 2019 worden de vragen over de PSA-test niet meer gesteld in de gezondheidsenquête.
+
+";;;;;
+"107";"78";"106";"Topic";"InDeAfgelopen5Jaar_74";"In de afgelopen 5 jaar";;;"Double";"%";"1";"Impossible"
+"108";"79";"106";"Topic";"NietInDeAfgelopen5Jaar_75";"Niet in de afgelopen 5 jaar";;;"Double";"%";"1";"Impossible"
+"109";"80";"106";"Topic";"WeetNiet_76";"Weet niet";;;"Double";"%";"1";"Impossible"
+"110";;"95";"TopicGroup";"";"Bloeddrukmeting, 16 jaar of ouder";"Aan personen van 16 jaar of ouder is gevraagd: Wanneer is uw bloeddruk voor de laatste keer gemeten door een zorgverlener, bijvoorbeeld een dokter of verpleegkundige? In 2017 was de antwoordoptie weet niet in de periode januari tot september niet zichtbaar voor de respondenten die de vragenlijst via de computer invulden. Hierdoor is het percentage mensen dat weet niet invulden laag in 2017. In september 2017 werd dit hersteld.";;;;;
+"111";"81";"110";"Topic";"InDeAfgelopen12Maanden_77";"In de afgelopen 12 maanden";;;"Double";"%";"1";"Impossible"
+"112";"82";"110";"Topic";"LangerDan12MaandenGeleden_78";"Langer dan 12 maanden geleden";;;"Double";"%";"1";"Impossible"
+"113";"83";"110";"Topic";"Nooit_79";"Nooit";;;"Double";"%";"1";"Impossible"
+"114";"84";"110";"Topic";"WeetNiet_80";"Weet niet";;;"Double";"%";"1";"Impossible"
+"115";;"95";"TopicGroup";"";"Cholesterolmeting, 16 jaar of ouder";"Aan personen van 16 jaar of ouder is gevraagd: Wanneer is het cholesterolgehalte in uw bloed voor het laatst gemeten door een zorgverlener?  In 2017 was de antwoordoptie weet niet in de periode januari tot september niet zichtbaar voor de respondenten die de vragenlijst via de computer invulden. Hierdoor is het percentage mensen dat weet niet invulden laag in 2017. In september 2017 werd dit hersteld.";;;;;
+"116";"85";"115";"Topic";"InDeAfgelopen12Maanden_81";"In de afgelopen 12 maanden";;;"Double";"%";"1";"Impossible"
+"117";"86";"115";"Topic";"LangerDan12MaandenGeleden_82";"Langer dan 12 maanden geleden";;;"Double";"%";"1";"Impossible"
+"118";"87";"115";"Topic";"Nooit_83";"Nooit";;;"Double";"%";"1";"Impossible"
+"119";"88";"115";"Topic";"WeetNiet_84";"Weet niet";;;"Double";"%";"1";"Impossible"
+"120";;"95";"TopicGroup";"";"Bloedsuikerspiegelmeting, 16 jr of ouder";"Aan personen van 16 jaar of ouder is gevraagd: Wanneer is uw bloedsuikerspiegel voor het laatst gemeten door een zorgverlener?
+In 2017 was de antwoordoptie weet niet in de periode januari tot september niet zichtbaar voor de respondenten die de vragenlijst via de computer invulden. Hierdoor is het percentage mensen dat weet niet invulden laag in 2017. In september 2017 werd dit hersteld.";;;;;
+"121";"89";"120";"Topic";"InDeAfgelopen12Maanden_85";"In de afgelopen 12 maanden";;;"Double";"%";"1";"Impossible"
+"122";"90";"120";"Topic";"LangerDan12MaandenGeleden_86";"Langer dan 12 maanden geleden";;;"Double";"%";"1";"Impossible"
+"123";"91";"120";"Topic";"Nooit_87";"Nooit";;;"Double";"%";"1";"Impossible"
+"124";"92";"120";"Topic";"WeetNiet_88";"Weet niet";;;"Double";"%";"1";"Impossible"
+"125";;"95";"TopicGroup";"";"Occult bloedtest, 16 jaar of ouder";"Aan personen van 16 jaar of ouder is gevraagd: Een Occult bloedtest is een onderzoek om de aanwezigheid van kleine hoeveelheden bloed in de ontlasting op te sporen. Wanneer heeft u voor het laatst zo’n onderzoek laten uitvoeren? In 2017 was de antwoordoptie weet niet in de periode januari tot september niet zichtbaar voor de respondenten die de vragenlijst via de computer invulden. Hierdoor is het percentage mensen dat weet niet invulden laag in 2017. In september 2017 werd dit hersteld.";;;;;
+"126";"93";"125";"Topic";"InDeAfgelopen2Jaar_89";"In de afgelopen 2 jaar";;;"Double";"%";"1";"Impossible"
+"127";"94";"125";"Topic";"LangerDan2JaarGeleden_90";"Langer dan 2 jaar geleden";;;"Double";"%";"1";"Impossible"
+"128";"95";"125";"Topic";"Nooit_91";"Nooit";;;"Double";"%";"1";"Impossible"
+"129";"96";"125";"Topic";"WeetNiet_92";"Weet niet";;;"Double";"%";"1";"Impossible"
+"130";;"95";"TopicGroup";"";"Colonoscopie, 16 jaar of ouder";"Aan personen van 16 jaar of ouder is gevraagd: Wanneer heeft u voor het laatst een inwendig onderzoek van de dikke darm, ook wel colonoscopie genoemd, laten uitvoeren?  In 2017 was de antwoordoptie weet niet in de periode januari tot september niet zichtbaar voor de respondenten die de vragenlijst via de computer invulden. Hierdoor is het percentage mensen dat weet niet invulden laag in 2017. In september 2017 werd dit hersteld.";;;;;
+"131";"97";"130";"Topic";"InDeAfgelopen12Maanden_93";"In de afgelopen 12 maanden";;;"Double";"%";"1";"Impossible"
+"132";"98";"130";"Topic";"LangerDan12MaandenGeleden_94";"Langer dan 12 maanden geleden";;;"Double";"%";"1";"Impossible"
+"133";"99";"130";"Topic";"Nooit_95";"Nooit";;;"Double";"%";"1";"Impossible"
+"134";"100";"130";"Topic";"WeetNiet_96";"Weet niet";;;"Double";"%";"1";"Impossible"
+"135";"101";;"Topic";"Griepprik16JaarOfOuder_97";"Griepprik, 16 jaar of ouder";"Percentage personen van 16 jaar of ouder dat in de afgelopen 12 maanden een griepprik heeft gekregen.";;"Double";"%";"1";"Impossible"
+"136";"102";;"Topic";"Bloeddonoren18Tot70Jaar_98";"Bloeddonoren, 18 tot 70 jaar";"Percentage personen van 18 tot en met 69 jaar met antwoordcategorie ja op de vraag: Bent u bloeddonor? Hier wordt niet bedoeld het doneren van plasma. Vanaf 2017 wordt deze vraag niet meer gesteld.";;"Double";"%";"1";"Impossible"
+"137";;;"TopicGroup";"";"Mantelzorg geven, 16 jaar of ouder";"Mantelzorg is zorg die iemand geeft aan een bekende uit zijn of haar omgeving, zoals een partner, kind of vriend, als deze persoon voor langere tijd ziek, hulpbehoevend of gehandicapt is. De mantelzorg kan bestaan uit het huishouden doen, wassen en aankleden, gezelschap houden, geldzaken regelen enzovoort. Mantelzorg wordt niet betaald. ";;;;;
+"138";"103";"137";"Topic";"Mantelzorger_99";"Mantelzorger";"Percentage personen dat mantelzorg geeft. De mantelzorg moet daarbij al minimaal 3 maanden duren, of het moet gaan om minimaal 8 uur zorg per week. ";;"Double";"%";"1";"Impossible"
+"139";"104";"137";"Topic";"UrenMantelzorgPerWeek_100";"Uren mantelzorg per week";"Het gemiddeld aantal uren mantelzorg dat per week wordt verleend door een mantelzorger. ";;"Double";"uren";"1";"Impossible"
+"140";"105";"137";"Topic";"ZwaarBelasteMantelzorgers_101";"Zwaar belaste mantelzorgers";"Percentage mantelzorgers dat aangeeft zich door die zorg ‘tamelijk zwaar belast’, ‘zeer zwaar belast’ of ‘overbelast’ te voelen. ";;"Double";"%";"1";"Impossible"
+"Geslacht"
+Key;Title;Description
+"T001038";"Totaal mannen en vrouwen";""
+"3000   ";"Mannen";""
+"4000   ";"Vrouwen";""
+"Leeftijd"
+Key;Title;Description
+"10000";"Totaal";""
+"41500";"Jonger dan 25 jaar";""
+"53310";"25 tot 45 jaar";""
+"53715";"45 tot 65 jaar";""
+"80200";"65 jaar of ouder";""
+"KenmerkenPersonen"
+Key;Title;Description
+"T009002 ";"Totaal ";""
+"2018700 ";"Onderwijsniveau: 1 laag";"Het hoogstbehaald onderwijsniveau is laag onderwijs. 
+Dit omvat onderwijs op het niveau van basisonderwijs, het vmbo, de eerste 3 leerjaren van havo/vwo en de entreeopleiding, de voormalige assistentenopleiding (mbo1).
+
+Het betreft hier mensen van 25 jaar en ouder."
+"2018740 ";"Onderwijsniveau: 2 middelbaar";"Het hoogstbehaald onderwijsniveau is middelbaar onderwijs. 
+Dit omvat de bovenbouw van havo/vwo, de basisberoepsopleiding (mbo2), de vakopleiding (mbo3) en de middenkader- en specialistenopleidingen (mbo4).
+
+Het betreft hier mensen van 25 jaar en ouder."
+"2018790 ";"Onderwijsniveau: 3 hoog";"Het hoogstbehaald onderwijsniveau is hoog onderwijs. 
+Dit omvat onderwijs op het niveau van hbo of wo.
+
+Het betreft hier mensen van 25 jaar en ouder."
+"2018820 ";"Onderwijsniveau: weet niet of onbekend";"Het hoogstbehaald onderwijsniveau is onbekend.
+
+Het betreft hier mensen van 25 jaar en ouder."
+"1014752 ";"Gestandaardiseerd inkomen: 1e 20%-groep";"Het gestandaardiseerd inkomen is het besteedbaar inkomen gecorrigeerd voor verschillen in grootte en samenstelling van het huishouden.
+
+De huishoudens zijn naar hoogte van hun gestandaardiseerd inkomen in vijf groepen (kwintielen) met een gelijk aantal huishoudens verdeeld. De inkomensgrenzen tussen deze vijf 20%-groepen verschillen van jaar tot jaar."
+"1014753 ";"Gestandaardiseerd inkomen: 2e 20%-groep";"Het gestandaardiseerd inkomen is het besteedbaar inkomen gecorrigeerd voor verschillen in grootte en samenstelling van het huishouden.
+
+De huishoudens zijn naar hoogte van hun gestandaardiseerd inkomen in vijf groepen (kwintielen) met een gelijk aantal huishoudens verdeeld. De inkomensgrenzen tussen deze vijf 20%-groepen verschillen van jaar tot jaar."
+"1014754 ";"Gestandaardiseerd inkomen: 3e 20%-groep";"Het gestandaardiseerd inkomen is het besteedbaar inkomen gecorrigeerd voor verschillen in grootte en samenstelling van het huishouden.
+
+De huishoudens zijn naar hoogte van hun gestandaardiseerd inkomen in vijf groepen (kwintielen) met een gelijk aantal huishoudens verdeeld. De inkomensgrenzen tussen deze vijf 20%-groepen verschillen van jaar tot jaar."
+"1014755 ";"Gestandaardiseerd inkomen: 4e 20%-groep";"Het gestandaardiseerd inkomen is het besteedbaar inkomen gecorrigeerd voor verschillen in grootte en samenstelling van het huishouden.
+
+De huishoudens zijn naar hoogte van hun gestandaardiseerd inkomen in vijf groepen (kwintielen) met een gelijk aantal huishoudens verdeeld. De inkomensgrenzen tussen deze vijf 20%-groepen verschillen van jaar tot jaar."
+"1014756 ";"Gestandaardiseerd inkomen: 5e 20%-groep";"Het gestandaardiseerd inkomen is het besteedbaar inkomen gecorrigeerd voor verschillen in grootte en samenstelling van het huishouden.
+
+De huishoudens zijn naar hoogte van hun gestandaardiseerd inkomen in vijf groepen (kwintielen) met een gelijk aantal huishoudens verdeeld. De inkomensgrenzen tussen deze vijf 20%-groepen verschillen van jaar tot jaar."
+"1012600 ";"Migratieachtergrond: Nederland";"Persoon met een Nederlandse achtergrond
+
+Persoon van wie de beide ouders in Nederland zijn geboren."
+"2012655 ";"Migratieachtergrond: westers";"Persoon met een westerse migratieachtergrond
+
+Persoon met als migratieachtergrond een van de landen in Europa (exclusief Turkije), Noord-Amerika en Oceanië, en Indonesië en Japan. 
+Op grond van hun sociaal- economische en sociaal-culturele positie worden personen met een migratieachtergrond uit Indonesië en Japan tot de westerse migratieachtergrond gerekend. Het gaat vooral om mensen die in het voormalig Nederlands-Indië zijn geboren en werknemers van Japanse bedrijven met hun gezin."
+"2012657 ";"Migratieachtergrond: niet-westers";"Persoon met een niet-westerse migratieachtergrond
+
+Persoon met als migratieachtergrond een van de landen in Afrika, Latijns-Amerika en Azië (exclusief Indonesië en Japan) of Turkije. Op grond van hun sociaal-economische en sociaal-culturele positie worden personen met een migratieachtergrond uit Indonesië en Japan tot de westerse migratieachtergrond gerekend. Het gaat vooral om mensen die in het voormalig Nederlands-Indië zijn geboren en werknemers van Japanse bedrijven met hun gezin."
+"Marges"
+Key;Title;Description
+"MW00000";"Waarde";""
+"MOG0095";"Ondergrens 95%-interval";"Dit is de ondergrens van het interval waarvan met 95% zekerheid verwacht wordt dat de werkelijke waarde er binnen ligt.
+Omdat de enquête een steekproef betreft, kunnen er schommelingen in de cijfers optreden als gevolg van toeval. Bij elk gevonden percentage of is daarom het bijbehorende betrouwbaarheidsinterval opgenomen. De werkelijke waarde ligt met een waarschijnlijkheid van 95% tussen de ondergrens en de bovengrens. Het betrouwbaarheidsinterval is afhankelijk is van het aantal ondervraagde personen, van het gekozen steekproefontwerp, en van de spreiding in de antwoorden. 
+De ondergrens is berekend door de standaardfout te vermenigvuldigen met de factor 1,96 en deze waarde af te trekken van het gemiddelde. Als de ondergrens onder de 0% uitkomt, is de grens afgekapt op 0%.
+
+"
+"MBG0095";"Bovengrens 95%-interval";"Dit is de bovengrens van het interval waarvan met 95% zekerheid verwacht wordt dat de werkelijke waarde er binnen ligt.
+Omdat de enquête een steekproef betreft, kunnen er schommelingen in de cijfers optreden als gevolg van toeval. Bij elk gevonden percentage of is daarom het bijbehorende betrouwbaarheidsinterval opgenomen. De werkelijke waarde ligt met een waarschijnlijkheid van 95% tussen de ondergrens en de bovengrens. Het betrouwbaarheidsinterval is afhankelijk is van het aantal ondervraagde personen, van het gekozen steekproefontwerp, en van de spreiding in de antwoorden. 
+De bovengrens is berekend door de standaardfout te vermenigvuldigen met de factor 1,96 en deze waarde op te tellen bij het gemiddelde. Als de bovengrens boven de 100% uitkomt, is de grens afgekapt op 100%.
+
+"
+"Perioden"
+Key;Title;Description;Status
+"2014G200";"2014/2015";"";"Definitief"
+"2016G200";"2016/2017";;"Definitief"
+"2018G200";"2018/2019";;"Definitief"
